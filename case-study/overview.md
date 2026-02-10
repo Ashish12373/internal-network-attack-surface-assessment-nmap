@@ -1,0 +1,1 @@
+This case study simulates a SOC analyst performing internal reconnaissance to understand asset exposure and attack surface. The focus is on validation, risk assessment, and defensive insight rather than exploitation.
