@@ -1,0 +1,1 @@
+Exposed services such as SSH, PostgreSQL, and Splunk management interfaces represent high-value internal assets. While expected in enterprise environments, these services require strict access controls and monitoring due to their impact if compromised.
