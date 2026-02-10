@@ -1,0 +1,15 @@
+# Nmap 7.98 scan initiated Mon Feb  9 18:45:57 2026 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" --reason -p- -oN task4_reasons.txt 192.168.56.10
+Nmap scan report for 192.168.56.10
+Host is up, received arp-response (0.00012s latency).
+Not shown: 65528 closed tcp ports (reset)
+PORT     STATE SERVICE        REASON
+22/tcp   open  ssh            syn-ack ttl 64
+5432/tcp open  postgresql     syn-ack ttl 64
+8000/tcp open  http-alt       syn-ack ttl 64
+8089/tcp open  unknown        syn-ack ttl 64
+8191/tcp open  limnerpressure syn-ack ttl 64
+9997/tcp open  palace-6       syn-ack ttl 64
+9998/tcp open  distinct32     syn-ack ttl 64
+MAC Address: 08:00:27:4D:BE:58 (Oracle VirtualBox virtual NIC)
+
+# Nmap done at Mon Feb  9 18:46:01 2026 -- 1 IP address (1 host up) scanned in 4.01 seconds
